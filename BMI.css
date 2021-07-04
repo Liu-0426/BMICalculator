@@ -1,0 +1,22 @@
+.bg{
+    background-color: cadetblue;
+}
+.app{
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.list{
+    padding-top: 20px;
+    color: red;
+}
+.BMI{
+    width: 100%;
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
